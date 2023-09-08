@@ -103,6 +103,19 @@
       "Cart": "bx bx-cart-add",
       "Gmail": "bx bxs-envelope",
       "id": "8"
+    },
+    {
+      "CapButton": "New",
+      "CapImg": "../imgs/Futbolka.png",
+      "Check": "bx bxs-check-circle",
+      "CapName": "Pattern Print",
+      "Prise": "27 550₽",
+      "AboutCap": "Новое",
+      "CapOlcham": "L",
+      "LIke": "bx bxs-heart",
+      "Cart": "bx bx-cart-add",
+      "Gmail": "bx bxs-envelope",
+      "id": "9"
     }
   ]
 }
